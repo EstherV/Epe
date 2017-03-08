@@ -1,2 +1,2 @@
-# Epe
-First repository for Epe
+# EPE
+This is my first repo
